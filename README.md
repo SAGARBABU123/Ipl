@@ -1,2 +1,0 @@
-# Ipl
-Indian Premier league 
